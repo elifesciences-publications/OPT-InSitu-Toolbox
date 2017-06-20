@@ -1,3 +1,5 @@
+### This code is associated with the paper "Automated deep-phenotyping of the vertebrate brain". eLife, 2017. 10.7554/eLife.23379
+
 %--------------------------------------------------------------------------
 % This file is part of the OPT InSitu Toolbox
 %
